@@ -1,0 +1,7 @@
+Added a new text file :)
+
+This file will be added to a new branch.
+
+Added a third line
+
+Added a forth line
